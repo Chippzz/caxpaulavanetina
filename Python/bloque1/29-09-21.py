@@ -1,0 +1,5 @@
+print("hello :D")
+print("my name is paula (you can call me pau )")
+print("i'm in 9th grade group A")
+print("i don't have a favorite food :(")
+print("and i like horror stuff but im afraid of a lot of things lol ")
