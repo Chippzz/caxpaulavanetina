@@ -1,0 +1,1 @@
+e=int(input("cuantos metros saltaste?"))
